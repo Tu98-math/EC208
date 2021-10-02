@@ -8,5 +8,5 @@
     . TuTA
 - Thiết kế màn hình chi tiết
     . DanLBT
-- Thiết kế màn hình tin tức
+- Thiết kế màn hình tin tức 
     . HaoLN
