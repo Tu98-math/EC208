@@ -6,3 +6,5 @@
     . AnhLH
 - Thiết kế giao diện Màn hính sản phẩm
     . TuTA
+- Thiết kế màn hình chi tiết
+    . DanLBT
