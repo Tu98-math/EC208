@@ -1,7 +1,7 @@
 # Start Project
 
 
-- Thiết kế kiến trúc website
+Thiết kế kiến trúc website
 - Thiết kế giao diện trang chủ 
     . AnhLH
 - Thiết kế giao diện Màn hính sản phẩm
@@ -14,3 +14,5 @@
     . OanhLTT
 - Thiết kế màn hình liên hệ
     . AnhLH
+- Xấy dựng cơ sở dữ liệu
+    . TuTA
