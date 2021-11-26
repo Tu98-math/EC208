@@ -16,3 +16,5 @@ Thiết kế kiến trúc website
         . AnhLH
     - Xấy dựng cơ sở dữ liệu
         . TuTA
+Xây dựng các chức năng theo đặc tả (logic)
+    
