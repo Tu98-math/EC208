@@ -19,3 +19,5 @@ Thiết kế kiến trúc website
 Xây dựng các chức năng theo đặc tả (logic)
     - Xử lý đăng ký
         . OanhLH
+    - Xử lý đăng nhập
+        . AnhLH
