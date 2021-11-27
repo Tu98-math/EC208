@@ -17,4 +17,5 @@ Thiết kế kiến trúc website
     - Xấy dựng cơ sở dữ liệu
         . TuTA
 Xây dựng các chức năng theo đặc tả (logic)
-    
+    - Xử lý đăng ký
+        . OanhLH
