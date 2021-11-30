@@ -23,3 +23,5 @@ Xây dựng các chức năng theo đặc tả (logic)
         . AnhLH
     - Xác nhận đơn hàng
         . DanLBT
+    - Xử lý đặt hàng
+        . TuTA
